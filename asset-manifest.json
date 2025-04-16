@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e71391a1.css",
-    "main.js": "/static/js/main.c518a3f0.js",
+    "main.css": "/static/css/main.431bc3b4.css",
+    "main.js": "/static/js/main.cca0dbd0.js",
     "static/js/453.8c2bafb4.chunk.js": "/static/js/453.8c2bafb4.chunk.js",
     "static/media/landing.png": "/static/media/landing.75ac162f23658cff01ae.png",
+    "static/media/StockAndShopSplash.png": "/static/media/StockAndShopSplash.e90fbbea99ea9c2b6c18.png",
+    "static/media/mecropped2.png": "/static/media/mecropped2.737de79e349d9856f0f6.png",
+    "static/media/encompass.png": "/static/media/encompass.e160abe9e17c6ac34ff5.png",
+    "static/media/OHHLogo.png": "/static/media/OHHLogo.ea8444beb2586c6a1403.png",
     "static/media/Logo1.png": "/static/media/Logo1.3b0a548952b329cd91cc.png",
     "index.html": "/index.html",
-    "main.e71391a1.css.map": "/static/css/main.e71391a1.css.map",
-    "main.c518a3f0.js.map": "/static/js/main.c518a3f0.js.map",
+    "main.431bc3b4.css.map": "/static/css/main.431bc3b4.css.map",
+    "main.cca0dbd0.js.map": "/static/js/main.cca0dbd0.js.map",
     "453.8c2bafb4.chunk.js.map": "/static/js/453.8c2bafb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e71391a1.css",
-    "static/js/main.c518a3f0.js"
+    "static/css/main.431bc3b4.css",
+    "static/js/main.cca0dbd0.js"
   ]
 }
